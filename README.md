@@ -101,31 +101,31 @@ Access your profile to see favorites and logout.
 
 ### Spalsh Screen
 
-![Splash Screen](screenshots/English/SplashScreen.png)
+<img src="screenshots/English/SplashScreen.png" width="200" />
 
 ### Login Screen
 
-![Login Screen](screenshots/English/Login.png)
-![Login Screen Arabic](screenshots/Arabic/Login.png)
+<img src="screenshots/English/Login.png" width="200" />
+<img src="screenshots/Arabic/Login.png" width="200" />
 
 ### Register Screen
 
-![Register Screen](screenshots/English/Register.png)
-![Register Screen Arabic](screenshots/Arabic/Register.png)
+<img src="screenshots/English/Register.png" width="200" />
+<img src="screenshots/Arabic/Register.png" width="200" />
 
 ### Home Screen
 
-![Home Screen](screenshots/English/Home.png)
-![Home Screen Search Event](screenshots/English/EventSearch.png)
-![Home Screen Arabic](screenshots/Arabic/home.png)
+<img src="screenshots/English/Home.png" width="200" />
+<img src="screenshots/English/EventSearch.png" width="200" />
+<img src="screenshots/Arabic/Home.png" width="200" />
 
 ### Event Details
 
-![Event Details](screenshots/English/EventDetails.png)
+<img src="screenshots/English/EventDetails.png" width="200" />
 
 ### Profile
 
-![Profile Screen](screenshots/English/Profile.png)
+<img src="screenshots/English/Profile.png" width="200" />
 
 ## **RTL Support**
 
