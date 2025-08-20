@@ -78,15 +78,18 @@ npx expo start
 
 ## **Folder Structure**
 
+```plaintext
 CityPulse/
 │
-├─ assets/ # Images, fonts, icons
-├─ components/ # Reusable UI components
-├─ constants/ # Colors, strings, and static data
-├─ localization/ # i18n files for multiple languages
-├─ screens/ # All app screens (Splash, Login, Home, Profile, EventDetail)
-├─ common/ # Hooks, services
+├─ assets/         # Images, fonts, icons
+├─ components/     # Reusable UI components
+├─ constants/      # Colors, strings, and static data
+├─ localization/   # i18n files for multiple languages
+├─ screens/        # All app screens (Splash, Login, Home, Profile, EventDetail)
+├─ common/         # Hooks, services
 └─ package.json
+
+```
 
 ## **Usage**
 
@@ -131,3 +134,7 @@ Access your profile to see favorites and logout.
 The app automatically adjusts layout for Arabic language.
 All screens, including text inputs and labels, support Right-to-Left direction.
 I18nManager is used to handle RTL and app reloads when language changes.
+
+```
+
+```
