@@ -48,6 +48,18 @@ CityPulse is a React Native mobile application built with Expo. The app allows u
 
 ---
 
+## **Configuration**
+
+Before running the app, you need to set your **API key** for the event service:
+
+1. Open the file `services/eventService.js`.
+2. Replace the placeholder `YOUR_API_KEY_HERE` with your actual API key:
+
+```javascript
+const API_KEY = 'YOUR_ACTUAL_API_KEY';
+
+---
+
 ## **Installation**
 
 1. Clone the repository:
@@ -103,6 +115,7 @@ Access your profile to see favorites and logout.
 ### Home Screen
 
 ![Home Screen](screenshots/English/Home.png)
+![Home Screen Search Event](screenshots/English/EventSearch.png)
 ![Home Screen Arabic](screenshots/Arabic/home.png)
 
 ### Event Details

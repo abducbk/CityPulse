@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { Alert } from 'react-native';
 
-const API_KEY = 'SgAPufjmzzXLkyUnzl8RGx9AincYzFHx';
+const API_KEY = 'API YOUR_API_KEY_HERE';
 const API_URL = 'https://app.ticketmaster.com/discovery/v2/events.json';
 
 async function getEvents(keyword = '', countryCode = 'AE') {
