@@ -40,7 +40,7 @@ CityPulse is a React Native mobile application built with Expo. The app allows u
 ## **Tech Stack**
 
 - **Framework:** React Native with Expo
-- **Navigation:** Expo Router / React Navigation
+- **Navigation:** Expo Router
 - **State Management:** React Hooks
 - **Localization:** i18n for multi-language support
 - **Map Integration:** React Native Maps
@@ -54,17 +54,15 @@ CityPulse is a React Native mobile application built with Expo. The app allows u
 
 ```bash
 git clone https://github.com/abducbk/CityPulse.git
-
 ```
 
-2. Install dependencies:
+2. Install dependencies and Start the app:
 
+```bash
 cd cityPulse
-npm install
-
-3. Start the app:
-
 npx expo start
+
+```
 
 ## **Installation**
 
