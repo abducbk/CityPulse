@@ -65,17 +65,16 @@ const API_KEY = "YOUR_ACTUAL_API_KEY";
 
 1. Clone the repository:
 
-````bash
+```bash
 git clone https://github.com/abducbk/CityPulse.git
-
+```
 
 2. Install dependencies and Start the app:
 
 ```bash
 cd cityPulse
 npx expo start
-
-````
+```
 
 ## **Folder Structure**
 
