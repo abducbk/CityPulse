@@ -56,7 +56,8 @@ Before running the app, you need to set your **API key** for the event service:
 2. Replace the placeholder `YOUR_API_KEY_HERE` with your actual API key:
 
 ```javascript
-const API_KEY = 'YOUR_ACTUAL_API_KEY';
+const API_KEY = "YOUR_ACTUAL_API_KEY";
+```
 
 ---
 
@@ -64,9 +65,9 @@ const API_KEY = 'YOUR_ACTUAL_API_KEY';
 
 1. Clone the repository:
 
-```bash
+````bash
 git clone https://github.com/abducbk/CityPulse.git
-```
+
 
 2. Install dependencies and Start the app:
 
@@ -74,7 +75,7 @@ git clone https://github.com/abducbk/CityPulse.git
 cd cityPulse
 npx expo start
 
-```
+````
 
 ## **Folder Structure**
 
