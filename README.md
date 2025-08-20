@@ -64,7 +64,7 @@ npx expo start
 
 ```
 
-## **Installation**
+## **Folder Structure**
 
 CityPulse/
 │
