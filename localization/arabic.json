@@ -1,0 +1,15 @@
+{
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "الرجاء إدخال البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "الرجاء إدخال كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "registerButton": "تسجيل",
+    "toggleButton": "التبديل إلى الإنجليزية",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "confirmPasswordPlaceholder": "الرجاء تأكيد كلمة المرور",
+    "Favourites": "المفضلة",
+    "Logout": "تسجيل الخروج",
+    "noAccountDescription": "إذا لم يكن لديك حساب،",
+    "alreadyHaveAnAccountDescription": "إذا كان لديك حساب،"
+}

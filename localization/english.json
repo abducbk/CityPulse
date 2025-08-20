@@ -1,0 +1,16 @@
+{
+    "email": "Email",
+    "emailPlaceholder": "Please enter email",
+    "password": "Password",
+    "passwordPlaceholder": "Please enter password",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "toggleButton": "Switch to Arabic",
+    "confirmPassword": "Confirm password",
+    "confirmPasswordPlaceholder": "Please confirm password",
+    "Favourites": "Favourites",
+    "Logout": "Logout",
+    "noAccountDescription": "If you don't have an account,",
+    "alreadyHaveAnAccountDescription": " If you have an account,"
+   
+}
